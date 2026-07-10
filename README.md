@@ -1,6 +1,6 @@
 # 🏦 Bank Loan Analysis Dashboard (Power BI)
 
-An end-to-end Power BI dashboard analyzing a bank's loan portfolio — covering loan volume, funding, repayment performance, and credit risk across **38,576 loan applications** issued between **January 2021 and December 2021**.
+An end-to-end Power BI dashboard analyzing a bank's loan portfolio — covering loan volume, funding, repayment performance, and credit risk across **38,576 loan applications** issued.
 
 ---
 
@@ -95,5 +95,3 @@ Portfolio Risk Score (gauge), a Grade × Loan Status pivot table, and a state-wi
 
 ---
 
-## 👤 Author
-*Your Name* — feel free to connect on [LinkedIn](#) or check out more projects on [GitHub](#).
